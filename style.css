@@ -1,0 +1,15 @@
+h1 {
+    color:red;
+    }
+header li{
+    text-decoration: center;
+    display: inline-block;
+    width: 33%;
+    background-color: black
+}
+header a{
+    font-family: sans-serif;
+    color:white;
+    text-decoration:none;
+}
+    
