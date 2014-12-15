@@ -1,11 +1,13 @@
 h1 {
     color:red;
+    text-align: center;
+    font-family:cooper black;
     }
 header li{
     text-decoration: center;
     display: inline-block;
     width: 33%;
-    background-color: black
+    background-color: black;
 }
 header a{
     font-family: sans-serif;
@@ -13,3 +15,17 @@ header a{
     text-decoration:none;
 }
     
+
+body{  
+    background-size:cover;
+}
+
+p {
+    text-align: center;
+    line-height: 1000%;
+}
+
+header li: last-of-tip{
+    border:0;
+}
+
